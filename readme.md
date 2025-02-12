@@ -1,2 +1,3 @@
 This file is just for the information.
-this is tutorial for cpp
+This is tutorial for cpp.
+this is github tutorial as well
